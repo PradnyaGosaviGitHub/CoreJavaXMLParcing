@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inputfile name = "a" time="12:30:45">
+    <dependentfile name = "b"></dependentfile>
+    <dependentfile name = "c"></dependentfile>
+    <format1 fileSeparator = "|">
+        <field name = "customername" order = "1" maxlength = "42" type = "string">            
+        </field>
+    </format1>
+</inputfile>

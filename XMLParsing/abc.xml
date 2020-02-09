@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PurchaseOrder>
+<LineItem name="Dhane" price="400"></LineItem>
+<LineItem name="Jire" price="800"></LineItem>
+<LineItem name="Haldi" price="700"></LineItem>
+</PurchaseOrder>
